@@ -4,11 +4,11 @@
 
 - ### Woche 1
 
-  - **Dienstag, 04/10/22**
-    - INTRO / HTML
   - **Mittwoch, 05/10/22**
-    - HTML
+    - INTRO / HTML
   - **Donnerstag, 06/10/22**
+    - HTML    
+  - **Freitag, 07/10/22**
     - CSS
 
 - ### Woche 2

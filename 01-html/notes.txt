@@ -1,0 +1,47 @@
+HTML TAG 1
+
+Was brauchen wir zum programmieren?
+- Text editor, Visual Studio Code. (extensions: prettier, live-server und Mithril Emmet)
+- Browser, Google Chrome. (Um unseren HTML darzustellen, Dev Tool oder entwickler tool) 
+
+---
+
+Geschichte
+
+Erfunden 1989 von Tim Berners-Lee im CERN (http, html, url)
+
+---
+
+Was ist eine Website?
+
+Eine website, webseite, homepage, internet seite 
+ist ein Dokument mit informationen der online bereit gestellt würd im html oder text format.
+Es ist unter eine url zu finden.
+
+---
+
+Was ist HTML?
+
+- HTML steht für Hyper Text Markup Language.
+- HTML beschreibt die struktur von eine Web page.
+- HTML elemente sind bausteine eine HTML page.
+- HTML elemente werden mit tags dargestellt um content zu zeigen.
+- Browser zeigen nicht unsere tags.
+
+---
+
+WICHTIG
+
+Validator:
+- HTML Validator von w3school
+    https://validator.w3.org/#validate_by_input
+
+Die dokumentation:
+- w3school
+    https://www.w3schools.com/html/
+
+- mdn (mozilla developer network)
+    https://developer.mozilla.org/de/docs/Web/HTML
+
+- Kurs Content auf Github:
+    https://github.com/gael-src/mat-22-d10b
