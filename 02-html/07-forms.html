@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML Forms</title>
+  </head>
+  <body>
+    <h1>HTML Forms</h1>
+
+    <!-- 
+        FORMS 
+            Formulare(forms) werden mit diesen elemente gebaut:
+                "form" = Um denn formular zu deklarieren
+                "label" = Als beschreibung von inputs
+                "input" = Es gibt verschiedene inputs, die mit denn type attribut bestimmt werden können
+                "textarea" = Für Nachricht oder längere texte
+                "button" = mit type submit oder input mit type button um dir form zu versenden
+
+            ATTRIBUTTE:
+             - required = Muss ausgefühlt sein um die form zu senden
+             - for, name, id = zu identiefiezierung
+             - value = Um text in die inputs oder elemente vorzugeben
+             - placeholder = Text als information, nur zu sehen
+             - minlength, maxlength = Um die länge von einem text zu bestimmen
+             - min, max = Um inputs mit type number zu begrenzen
+    -->
+
+    <form action="#" method="post">
+      <label for="username">Name:</label>
+      <input type="text" name="username" id="username" />
+
+      <br />
+
+      <label for="useremail">Email:</label>
+      <input type="email" name="useremail" id="useremail" />
+
+      <br />
+
+      <label for="usermessage">Your message:</label>
+      <textarea
+        name="usermessage"
+        id="usermessage"
+        cols="30"
+        rows="10"
+      ></textarea>
+
+      <br />
+
+      <button type="submit">Submit</button>
+    </form>
+  </body>
+</html>
