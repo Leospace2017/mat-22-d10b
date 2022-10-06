@@ -1,0 +1,64 @@
+HTML Tag 2
+
+---
+
+Namen von datei/files und ordner/folder
+- Nur kleinschreibung
+- Keine capital/grosschreibung
+- Keine sonder zeichen
+- Keine leerzeichen
+- bindestrich oder underscore kann genutzt werden.
+
+---
+
+Bilder Format die in eine website benutzt werden können:
+ - (jpg, jpeg, png, svg, webp, gif)
+
+html elemente/tags/attribute
+    Diese tags, werden nur einmal benutzt: 
+        (doctype, html, head, title, body und h1)
+
+    Diesen tags können öfter benutzt werden:
+        (h2 bis h6, p, div, a, img...)
+
+---
+
+indentierung
+    Für menschen zum besser lesen und code verstehen.
+
+nesting
+    Code muss immer an die richtige stelle sein, sonst können fehler auftretten.
+
+---
+
+Visual Studio Code Shortcuts
+
+Windows:
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+
+Linux:
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
+
+Mac:
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+
+---
+
+WICHTIG
+
+Validator:
+- HTML Validator von w3school
+    https://validator.w3.org/#validate_by_input
+
+Die dokumentation:
+- w3school
+    https://www.w3schools.com/html/
+    
+- mdn (mozilla developer network)
+    https://developer.mozilla.org/de/docs/Web/HTML
+
+- Kurs Content auf Github:
+    https://github.com/gael-src/mat-22-d08a
+
+- Google image advanced:
+    https://www.google.de/advanced_image_search
