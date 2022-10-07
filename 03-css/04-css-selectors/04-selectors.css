@@ -1,0 +1,47 @@
+body {
+  font-family: sans-serif;
+}
+
+/* Tag selektor: */
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  color: blue;
+}
+
+p {
+  color: grey;
+}
+
+/* ID Selektor: */
+#large-heading {
+  font-size: 35px;
+}
+
+#green-text {
+  color: green;
+}
+
+/* CLASS Selektor: */
+.featured-text {
+  color: orange;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+/* CSS Specificity: */
+#blue-heading {
+  color: blue;
+}
+
+.green-heading {
+  color: green;
+}
+
+h1 {
+  color: red;
+}
