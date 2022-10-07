@@ -1,0 +1,77 @@
+CSS
+
+Cascading Style Sheet
+
+1 - Geschichte
+    Erfunden von Håkon Wium Lie in October 1994.
+
+OPTIONAL:
+Article:
+    https://www.w3.org/Style/CSS20/history.html
+
+Conference von Håkon Wium Lie
+    https://www.youtube.com/watch?v=LeC26IO1WV8&ab_channel=WeAreDevelopers
+
+---
+
+
+2 - CSS Benutzen
+
+Es gibt 3 wege wie wir CSS zu Benutzen können:
+
+- Inline CSS 
+    (Im tag element mit dem style attribut)
+- Interne CSS 
+    (CSS muss dann in einem style tag geschrieben werden, 
+    und diesen style tag mus innerhalb von denn head tag, nicht im body)
+- Externe CSS 
+    (Würd als externe css file gespeichert "zb: style.css", 
+    dieser file würd in head tag vom html verlinkt, mit dem link tag.
+    Der link tag braucht 2 attribute: rel und href,
+    "zb: rel="stylesheet" href="style.css"")
+
+---
+
+3 - CSS Reihenfolge:
+
+- Inline css überschreibt interne css
+- Interne css überschreibt externe css, ausser wenn externe css nach dem interne geladen würd.
+
+--- 
+
+4 - CSS Selektoren
+
+Es gibt 3 arten von selektoren:
+
+- tag name - Element oder Typ-Selektoren (zb: h1, h2, p, span, div)
+- id's - CSS ID-Selektoren (zb: #meine-css-id, #menutitle, #mainnav)
+- class - CSS Klassen (zb: .meine-css-klasse, .menutitles, .pagesnavs)
+
+- Grouping Selectors (h1, h2)
+- Combinators (section p)
+- Child Combinator (section > p)
+- Adjacent Sibling Combinator (section + p)
+
+
+Alle HTML-Elemente, die innerhalb des body-Elements sitzen, eignen sich als CSS-Selektoren.
+
+Dokumentation:
+
+https://www.w3schools.com/cssref/css_selectors.asp
+
+https://developer.mozilla.org/de/docs/Learn/CSS/Building_blocks/Selectors
+
+https://wiki.selfhtml.org/wiki/CSS/Selektoren
+
+---
+
+5 - CSS Good To Know
+
+- Hierachy, specificity
+- Inheritance
+- DRY, don't repeat yourself
+
+--- 
+
+CSS Validator:
+https://jigsaw.w3.org/css-validator/#validate_by_input
