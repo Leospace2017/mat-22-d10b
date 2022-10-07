@@ -23,7 +23,7 @@ Es gibt 3 wege wie wir CSS zu Benutzen können:
     (Im tag element mit dem style attribut)
 - Interne CSS 
     (CSS muss dann in einem style tag geschrieben werden, 
-    und diesen style tag mus innerhalb von denn head tag, nicht im body)
+    und diesen style tag muss innerhalb von denn head tag, nicht im body)
 - Externe CSS 
     (Würd als externe css file gespeichert "zb: style.css", 
     dieser file würd in head tag vom html verlinkt, mit dem link tag.
