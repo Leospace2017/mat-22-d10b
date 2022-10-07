@@ -1,0 +1,44 @@
+/* Grouping selektor: */
+h2,
+h3 {
+  color: blue;
+}
+
+/* Combinator: */
+div p {
+  color: orange;
+}
+
+/* Child combinator: */
+main > p {
+  color: aqua;
+}
+
+/* Adjacent sibling Combinator: */
+h4 + p {
+  color: blueviolet;
+}
+
+/* ---------------------- */
+
+/* Inheritence: */
+body {
+  font-family: sans-serif;
+  /* color: red; */
+}
+
+/* DRY Principles (don't repeat yourself): */
+
+/* bad example: */
+h4 {
+  color: green;
+}
+
+h5 {
+  color: green;
+}
+
+/* good example: */
+h4, h5 {
+    color: red;
+}
