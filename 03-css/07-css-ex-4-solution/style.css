@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: purple;
+  font-size: 45px;
+}
+
+h2 {
+  color: blue;
+}
+
+section {
+  border: 2px solid grey;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.feat-text {
+  font-size: 18px;
+  color: #383838;
+}
+
+.colored-text {
+  color: blueviolet;
+}

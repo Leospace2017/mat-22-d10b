@@ -39,6 +39,7 @@ h5 {
 }
 
 /* good example: */
-h4, h5 {
-    color: red;
+h4,
+h5 {
+  color: red;
 }
