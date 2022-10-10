@@ -1,0 +1,34 @@
+Web Development Jahres Kurs
+
+- 1: Basic Digital Literacy
+- 2: UI Basics (User Interface)
+- 3: Programming Basics
+- 4: Single Page Application (React.js)
+- 5: Backend (Node.js, express, mongodb)
+- 6: Final Projekt
+
+- 7: Praktikum
+
+---
+
+Web site Bauen, zb: React.
+https://reactjs.org/
+
+---
+
+(Nicht teil vom jahreskurs, aber einfach für euch zu lernen wenn ihr genug JS kennt)
+Handy app bauen: react native.
+https://reactnative.dev/
+
+PC App bauen: electron.js
+https://www.electronjs.org/
+
+---
+
+Finale Projekt beispiel:
+
+https://whattodooo.herokuapp.com/
+
+https://100bestapp-git-dev-100best.vercel.app/
+
+https://clean-code-project.web.app/
