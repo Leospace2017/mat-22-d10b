@@ -1,0 +1,14 @@
+5- CSS Farben
+
+Instructions:
+- Erstelle eine Datei mit dem Namen index.html, mit dem HTML-Boilerplate
+- Wähle ein Thema deiner Wahl.
+- Füge 3 Abschnitte und einige Absätze in jedem Abschnitt hinzu.
+- Erstelle eine Datei namens style.css
+- Gestalte deine Seite mit einer Farbpalette, verwende rgb, rgba und hexcode für die Farben!
+- Füge in CSS ein Hintergrundbild ein (background-image)
+
+OPTIONAL:
+- Füge einen Font von Google Fonts mit Link oder Import hinzu (Dieser Weg nur für Übungen!!!). 
+  WICHTIG: Für publizierte Websites diesen Weg verwenden: 
+  https://www.youtube.com/playlist?list=PL-blfgKIp4mD-HDi7fpvn7KATQvD7sSuS

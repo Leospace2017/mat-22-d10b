@@ -1,0 +1,34 @@
+body {
+  font-family: sans-serif;
+  font-family: 'Roboto', sans-serif;
+
+  background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/close-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+div {
+  /* border: 1px solid grey; */
+  border-radius: 6px;
+  margin: 10px;
+  padding: 10px;
+}
+
+#id-1 {
+  color: rgb(10, 10, 250);
+  border: 1px solid rgb(10, 10, 250);
+  background-color: rgba(46, 250, 10, 0.8);
+}
+
+#id-2 {
+  color: rgba(10, 250, 10, 0.9);
+  border: 1px solid rgba(10, 250, 10, 0.9);
+  background-color: rgba(206, 10, 250, 0.8);
+}
+
+#id-3 {
+  color: #801010;
+  border: 1px solid #801010;
+  background-color: rgba(10, 110, 250, 0.8);
+}
