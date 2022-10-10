@@ -21,3 +21,30 @@ body {
 #hex-color {
   color: #5700dd;
 }
+
+/* --- */
+
+/* TEXT FORMATS: */
+.text-format {
+  border: 1px solid grey;
+
+  /* TEXT PLATZIEREN: */
+  text-align: left;
+  /* text-align: right; */
+  /* text-align: center; */
+  /* text-align: justify; */
+
+  /* TEXT DECORATION: */
+  /* text-decoration: underline; */
+  /* text-decoration: overline; */
+  /* text-decoration: line-through; */
+
+  /* TEXT TRANSFORM: */
+  text-transform: capitalize;
+  text-transform: uppercase;
+  text-transform: lowercase;
+
+  /* TEXT SPACING: */
+  letter-spacing: 3px;
+  word-spacing: 5px;
+}
