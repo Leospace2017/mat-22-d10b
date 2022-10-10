@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+}
+
+/* Color names: */
+#color-name {
+  color: Chartreuse;
+}
+
+/* RGB Color: */
+#rgb-color {
+  color: rgb(0, 0, 255);
+}
+
+/* RGBA Color: */
+#rgba-color {
+  color: rgba(0, 100, 255, 0.4);
+}
+
+/* Hex Colors: */
+#hex-color {
+  color: #5700dd;
+}
