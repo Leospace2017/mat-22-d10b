@@ -1,0 +1,21 @@
+div {
+  border: 1px solid grey;
+}
+
+/* Integrierte Fonts: */
+#id-1 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+#id-2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#id-3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Google Fonts: */
+.class-1-gfont {
+  font-family: "Montserrat", sans-serif;
+}
